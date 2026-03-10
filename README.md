@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Víctor</h1>
 <h3 align="center">💻 Software Developer | Web Development Enthusiast</h3>
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
 ### 👨‍💻 About Me
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Software Development student
 - 🌱 Currently learning **Full Stack Development**
 - 💡 Interested in **Web Development, Databases and Backend**
 - 🚀 Passionate about building useful software
 - 📍 Based in Spain
-
----
 
 ### 🛠️ Languages and Tools
 
