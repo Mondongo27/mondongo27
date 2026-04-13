@@ -32,15 +32,11 @@
 
 </p>
 
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mondongo27&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
+
+- STAEM: STAEM is a video game management application I developed in DAM for a Development Environments project along with three classmates.
 
 Currently working on new projects.  
 They will be added here soon.
